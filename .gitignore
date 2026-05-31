@@ -1,0 +1,8 @@
+.vs/
+[Db]ebug/
+[Rr]elease/
+bin/
+obj/
+*.mdf
+*.ldf
+*.user
